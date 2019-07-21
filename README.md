@@ -44,6 +44,6 @@ if(length != -1){
 ```
 ### Compile
 #### MAC OS X
-#define _MAC_ or g++ -D _MAC_
+#define \_MAC\_ or g++ -D \_MAC\_
 #### Windows 10 - Visual Studio 2017
-#define _WIN_ or setting VS2017 property of compile flag _WIN_
+#define \_WIN\_ or setting VS2017 property of compile flag \_WIN\_
