@@ -71,7 +71,7 @@ setting compile flag \_WIN\_
 Install STM32 Virtual COM Port Driver([STSW-STM32102](https://www.st.com/en/development-tools/stsw-stm32102.html) - Windows10 only
 )
 
-#### edit usbd_desc.c
+#### Edit usbd_desc.c
 ```cpp
 #define USBD_VID                        0x0483
 #define USBD_PID                        0x5740
