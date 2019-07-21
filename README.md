@@ -42,3 +42,8 @@ if(length != -1){
   std::cout << serial_buffer;
 }  
 ```
+### Compile
+#### MAC OS X
+#define _MAC_ or g++ -D _MAC_
+#### Windows 10 - Visual Studio 2017
+#define _WIN_ or setting VS2017 property of compile flag _WIN_
