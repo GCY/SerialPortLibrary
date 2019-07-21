@@ -3,7 +3,7 @@ This is cross-platform serial port library written in C++
 </br>
 
 ## Easy-to-use
-First include library folder
+First - include "Library" folder into your project.
 * serialport.h
 * serialport.cpp
 * enumserial.h
