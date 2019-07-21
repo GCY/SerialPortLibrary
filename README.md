@@ -64,3 +64,15 @@ make
 setting compile flag \_WIN\_
 
 ![alt text](https://github.com/GCY/SerialPortLibrary/blob/master/wxterm%20windows10.PNG?raw=true)
+
+## Terminal device for demo
+### STM32F4 VCP example
+
+Install STM32 Virtual COM Port Driver([STSW-STM32102](https://www.st.com/en/development-tools/stsw-stm32102.html) 
+)
+
+```cpp
+make
+```
+Load .elf file with arm-none-eabi-gdb
+### Arduino Serial Port example
