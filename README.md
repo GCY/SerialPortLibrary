@@ -78,9 +78,10 @@ Install STM32 Virtual COM Port Driver([STSW-STM32102](https://www.st.com/en/deve
 ```
 #### Compile
 ```cpp
+cd STM32F4/src/STM32F4
 make
 ```
 Load main.elf file with arm-none-eabi-gdb .
 
 ### Arduino Serial Port example
-Arduino IDE open *.ino file and burning the code on Arduino-board
+Arduino IDE open ArduinoSerialTest.ino file and burning the code on Arduino-board
