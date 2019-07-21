@@ -10,6 +10,10 @@ First - include "Library" folder into your project.
 * enumserial.cpp
 * Third/dirent.h(MSVC only)
 
+### Dependence: Native API only!
+* MAC OS X (POSIX)
+* Windows10 (WinAPI)
+
 ### Initialization SerialPort-Class and EnumSerial-Class
 ```cpp
 EnumSerial enumserial;
