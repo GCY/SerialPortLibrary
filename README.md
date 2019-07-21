@@ -1,5 +1,5 @@
 # SerialPortLibrary
-This is cross-platform serial port library written in C++ 
+This is cross-platform serial port library written in C++, build passing High-Sieera and Win10.
 </br>
 
 ## Easy-to-use
@@ -87,5 +87,5 @@ Load main.elf file with arm-none-eabi-gdb .
 Arduino IDE open ArduinoSerialTest.ino file and burning the code on Arduino-board
 
 ## Another version wxArduino(Linux and Windows7 build passing)
-### ([wxArduino](https://github.com/GCY/wxArduino) - previous version of SerialPortLibrary
-)
+### [wxArduino](https://github.com/GCY/wxArduino) - previous version of SerialPortLibrary
+
