@@ -1,5 +1,5 @@
 # SerialPortLibrary
-This is cross-platform serial port library written in C++, build passing MAC-High-Sieera and Win10.
+This is cross-platform serial port library written in C++, build passing MAC-High-Sierra and Win10.
 </br>
 
 ## Easy-to-use
