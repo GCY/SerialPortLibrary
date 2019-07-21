@@ -71,8 +71,16 @@ setting compile flag \_WIN\_
 Install STM32 Virtual COM Port Driver([STSW-STM32102](https://www.st.com/en/development-tools/stsw-stm32102.html) - Windows10 only
 )
 
+#### edit usbd_desc.c
+```cpp
+#define USBD_VID                        0x0483
+#define USBD_PID                        0x5740
+```
+#### Compile
 ```cpp
 make
 ```
-Load .elf file with arm-none-eabi-gdb
+Load main.elf file with arm-none-eabi-gdb .
+
 ### Arduino Serial Port example
+Arduino IDE open *.ino file and burning the code on Arduino-board
