@@ -68,7 +68,7 @@ setting compile flag \_WIN\_
 ## Terminal device for demo
 ### STM32F4 VCP example
 
-Install STM32 Virtual COM Port Driver([STSW-STM32102](https://www.st.com/en/development-tools/stsw-stm32102.html) 
+Install STM32 Virtual COM Port Driver([STSW-STM32102](https://www.st.com/en/development-tools/stsw-stm32102.html) - Windows10 only
 )
 
 ```cpp
