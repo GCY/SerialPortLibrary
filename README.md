@@ -47,3 +47,15 @@ if(length != -1){
 #define \_MAC\_ or g++ -D \_MAC\_
 #### Windows 10 - Visual Studio 2017
 #define \_WIN\_ or setting VS2017 property of compile flag \_WIN\_
+
+## Example
+### wxTerm
+wxTerm is cross-platform and Arduino-like IDE serial monitor example.
+#### Dependence
+* wxWidgets 3.x
+#### MAC OS X
+```cpp
+make
+```
+#### Windows 10 - Visual Studio 2017
+setting compile flag \_WIN\_
