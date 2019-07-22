@@ -87,12 +87,12 @@ make
 ```
 Load main.elf file with arm-none-eabi-gdb .
 
-Baud rate - none
+wxTerm Baud rate - none
 
 ### Arduino Serial Port example
 Arduino IDE open ArduinoSerialTest.ino file and burning the code on Arduino-board
 
-Baud rate - 115200
+wxTerm Baud rate - 115200
 
 ## Another version wxArduino(Linux and Windows7 build passing)
 ### [wxArduino](https://github.com/GCY/wxArduino) - previous version of SerialPortLibrary
