@@ -20,6 +20,9 @@
 
 #include "tiny_printf.h"
 
+#define __FPU_PRESENT
+#define __FPU_USED
+
 volatile uint32_t TimingDelay;
 
 volatile uint32_t micros = 0;
